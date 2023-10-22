@@ -1,0 +1,2 @@
+# Zebida
+locale Bidding App
